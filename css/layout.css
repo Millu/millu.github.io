@@ -96,7 +96,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #FFFFFF; }
-header .social li a:hover { color: #110; }
+header .social li a:hover { color: #0F9095; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -118,7 +118,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #110; }
+header .scrolldown a:hover { color: #0F9095; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -180,7 +180,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #0F9095; }
 
 
 /* ------------------------------------------------------------------ */
